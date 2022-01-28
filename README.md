@@ -1,6 +1,6 @@
 # Hello, thank you for stopping by my page!
 
-### My name is Ha Seung, and I am an AI engineer currently open to job opportunities.
+## My name is Ha Seung, and I am an AI engineer currently open to job opportunities.
 Although being an AI engineer is my technical profession and main passion, I would generally describe myself as an obsessive **inventor/innovator** looking to solve problems both big and small. But don't just take my word for it, see it for yourself!  
 <br/><br/>
 ### 👨‍💻 Artificial Intelligence Related Projects
