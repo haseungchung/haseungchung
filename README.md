@@ -10,7 +10,6 @@ Although being an AI engineer is my technical profession and main passion, I wou
 #### Past Projects:
 - Residual Convolutional Neural Network for Communication Signal Classification
 - Multiagent Autoencoder (GAN + Autoencoder) Network for Achieving Communication Signal Encryption
-- Multiagent Autoencoder (GAN + Autoencoder) Network for Achieving Low Probability of Interception
 - Deep Learning Based Signal Constellation Design Using an Autoencoder
 - Robotic Arm Pose Estimation using Random Forest Regression on Stretch Sensor Resistance Readings
 - Prediction of H1B Visa Approval using Machine Learning Algorithms
