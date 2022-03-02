@@ -5,13 +5,13 @@ Although being an AI engineer is my technical profession and main passion, I wou
 <br/><br/>
 ### 👨‍💻 Artificial Intelligence Related Projects
 #### Current Projects:
-- Posture Detection and Correction using Yolov3 and Residual Neural Networks  
+- Real Time Posture Detection and Correction Using the Yolov3 Algorithm and a Residual Neural Network
   
 #### Past Projects:
-- Residual Convolutional Neural Network for Communication Signal Classification
-- Multiagent Autoencoder (GAN + Autoencoder) Network for Achieving Communication Signal Encryption
+- Residual Neural Network for Communication Signal Classification
+- Adversarial Autoencoder (GAN + Autoencoder) Network for Achieving Communication Signal Encryption
 - Deep Learning Based Signal Constellation Design Using an Autoencoder
-- Robotic Arm Pose Estimation using Random Forest Regression on Stretch Sensor Resistance Readings
+- Pose Estimation of a Robotic Arm via Resistive Stress Sensors and Supervised Learning
 - Prediction of H1B Visa Approval using Machine Learning Algorithms
 - Comparison of Supervised Learning Classification Algorithms for Music
 <br/><br/>
